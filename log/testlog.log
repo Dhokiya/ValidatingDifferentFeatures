@@ -1,0 +1,149 @@
+2022-09-07 20:41:27,617 - testDotDash -INFO - Url Is Opened
+2022-09-07 20:41:27,725 - testDotDash -INFO - User name is Provided
+2022-09-07 20:41:27,825 - testDotDash -INFO - Password is Provided
+2022-09-07 20:41:30,045 - testDotDash -INFO - Clicked in Login
+2022-09-07 20:41:32,077 - testDotDash -INFO - Login Test Psssed
+2022-09-07 20:41:32,204 - testDotDash -INFO - Logout Successfully
+2022-09-07 21:15:03,544 - testDotDash -INFO - Url Is Opened
+2022-09-07 21:15:03,646 - testDotDash -INFO - User name is Provided
+2022-09-07 21:15:03,739 - testDotDash -INFO - Password is Provided
+2022-09-07 21:15:05,933 - testDotDash -INFO - Clicked in Login
+2022-09-07 21:15:07,947 - testDotDash -INFO - Login Test Psssed
+2022-09-07 21:15:08,074 - testDotDash -INFO - Logout Successfully
+2022-09-07 21:15:09,415 - testDotDash -INFO - Url Is Opened
+2022-09-07 21:15:09,487 - testDotDash -INFO - User name is Provided
+2022-09-07 21:15:09,570 - testDotDash -INFO - Password is Provided
+2022-09-07 21:15:11,760 - testDotDash -INFO - Clicked in Login
+2022-09-07 21:15:13,779 - testDotDash -INFO - Login Test Psssed
+2022-09-07 21:15:13,904 - testDotDash -INFO - Logout Successfully
+2022-09-07 21:25:36,563 - testDotDash -INFO - Url Is Opened
+2022-09-07 21:25:36,654 - testDotDash -INFO - User name is Provided
+2022-09-07 21:25:36,740 - testDotDash -INFO - Password is Provided
+2022-09-07 21:25:38,923 - testDotDash -INFO - Clicked in Login
+2022-09-07 21:25:40,933 - testDotDash -INFO - Login Test Failed
+2022-09-07 21:28:27,286 - testDotDash -INFO - Url Is Opened
+2022-09-07 21:28:27,379 - testDotDash -INFO - User name is Provided
+2022-09-07 21:28:27,457 - testDotDash -INFO - Password is Provided
+2022-09-07 21:28:29,639 - testDotDash -INFO - Clicked in Login
+2022-09-07 21:28:31,648 - testDotDash -INFO - Login Test Psssed
+2022-09-07 21:28:31,797 - testDotDash -INFO - Logout Successfully
+2022-09-07 21:28:33,002 - testDotDash -INFO - Url Is Opened
+2022-09-07 21:28:33,077 - testDotDash -INFO - User name is Provided
+2022-09-07 21:28:33,155 - testDotDash -INFO - Password is Provided
+2022-09-07 21:28:35,328 - testDotDash -INFO - Clicked in Login
+2022-09-07 21:28:37,343 - testDotDash -INFO - Login Test Failed
+2022-09-07 22:13:27,130 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:13:27,205 - testDotDash -INFO - User name is Provided
+2022-09-07 22:13:27,271 - testDotDash -INFO - Password is Provided
+2022-09-07 22:13:29,416 - testDotDash -INFO - Clicked in Login
+2022-09-07 22:13:31,434 - testDotDash -INFO - Login Test Psssed
+2022-09-07 22:13:31,559 - testDotDash -INFO - Logout Successfully
+2022-09-07 22:13:32,948 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:13:33,013 - testDotDash -INFO - User name is Provided
+2022-09-07 22:13:33,084 - testDotDash -INFO - Password is Provided
+2022-09-07 22:13:35,239 - testDotDash -INFO - Clicked in Login
+2022-09-07 22:13:37,247 - testDotDash -INFO - Login Test Failed
+2022-09-07 22:14:19,975 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:14:20,058 - testDotDash -INFO - User name is Provided
+2022-09-07 22:14:20,136 - testDotDash -INFO - Password is Provided
+2022-09-07 22:14:22,301 - testDotDash -INFO - Clicked in Login
+2022-09-07 22:14:24,310 - testDotDash -INFO - Login Test Psssed
+2022-09-07 22:14:24,409 - testDotDash -INFO - Logout Successfully
+2022-09-07 22:14:25,787 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:14:25,859 - testDotDash -INFO - User name is Provided
+2022-09-07 22:14:25,931 - testDotDash -INFO - Password is Provided
+2022-09-07 22:14:28,098 - testDotDash -INFO - Clicked in Login
+2022-09-07 22:14:30,109 - testDotDash -INFO - Login Test Failed
+2022-09-07 22:21:48,896 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:25:03,370 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:25:03,471 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:25:03,532 - testDotDash -INFO - CheckBox2 is Enabled
+2022-09-07 22:25:03,532 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:25:03,567 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:29:53,720 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:29:53,841 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:29:53,894 - testDotDash -INFO - CheckBox2 is Enabled
+2022-09-07 22:29:53,895 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:29:53,936 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:31:21,227 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:31:21,353 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:31:21,403 - testDotDash -INFO - CheckBox2 is Enabled
+2022-09-07 22:31:21,404 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:31:21,442 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:33:06,381 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:33:08,496 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:33:12,588 - testDotDash -INFO - CheckBox2 is Enabled
+2022-09-07 22:33:14,594 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:33:16,680 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:33:28,473 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:33:30,602 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:33:34,677 - testDotDash -INFO - CheckBox2 is Enabled
+2022-09-07 22:33:36,687 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:33:38,751 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:35:14,314 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:35:16,441 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:35:20,544 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:35:22,612 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:44:40,248 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:44:42,370 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:44:44,446 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:44:46,504 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:46:36,668 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:46:38,802 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:46:42,898 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:46:44,972 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-07 22:50:05,736 - testDotDash -INFO - Url Is Opened
+2022-09-07 22:50:07,852 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-07 22:50:11,961 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-07 22:50:14,031 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-10 22:11:33,824 - testDotDash -INFO - Url Is Opened
+2022-09-10 22:11:36,018 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-10 22:11:40,143 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-10 22:11:42,305 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-10 22:14:01,022 - testDotDash -INFO - Url Is Opened
+2022-09-10 22:14:01,427 - testDotDash -INFO - Url Is Opened
+2022-09-10 22:14:29,602 - testDotDash -INFO - Url Is Opened
+2022-09-10 22:14:29,704 - testDotDash -INFO - User name is Provided
+2022-09-10 22:14:29,786 - testDotDash -INFO - Password is Provided
+2022-09-10 22:14:31,983 - testDotDash -INFO - Clicked in Login
+2022-09-10 22:14:34,004 - testDotDash -INFO - Login Test Psssed
+2022-09-10 22:14:34,152 - testDotDash -INFO - Logout Successfully
+2022-09-10 22:14:35,501 - testDotDash -INFO - Url Is Opened
+2022-09-10 22:14:35,570 - testDotDash -INFO - User name is Provided
+2022-09-10 22:14:35,646 - testDotDash -INFO - Password is Provided
+2022-09-10 22:14:37,858 - testDotDash -INFO - Clicked in Login
+2022-09-10 22:14:39,870 - testDotDash -INFO - Login Test Failed
+2022-09-10 22:14:40,288 - testDotDash -INFO - Url Is Opened
+2022-09-10 22:14:42,490 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-10 22:14:46,632 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-10 22:14:48,759 - testDotDash -INFO - CheckBox1 is Enabled
+2022-09-23 17:32:53,611 - testDotDash -INFO - Url Is Opened
+2022-09-23 17:32:53,730 - testDotDash -INFO - User name is Provided
+2022-09-23 17:32:53,810 - testDotDash -INFO - Password is Provided
+2022-09-23 17:32:56,049 - testDotDash -INFO - Clicked in Login
+2022-09-23 17:32:58,067 - testDotDash -INFO - Login Test Psssed
+2022-09-23 17:32:58,206 - testDotDash -INFO - Logout Successfully
+2022-09-23 17:32:59,684 - testDotDash -INFO - Url Is Opened
+2022-09-23 17:32:59,766 - testDotDash -INFO - User name is Provided
+2022-09-23 17:32:59,860 - testDotDash -INFO - Password is Provided
+2022-09-23 17:33:02,088 - testDotDash -INFO - Clicked in Login
+2022-09-23 17:33:04,106 - testDotDash -INFO - Login Test Failed
+2022-09-23 17:33:04,595 - testDotDash -INFO - Url Is Opened
+2022-09-23 17:33:06,793 - testDotDash -INFO - Clicked on CheckBoxs
+2022-09-23 17:33:10,942 - testDotDash -INFO - CheckBox2 is Disabled
+2022-09-23 17:33:13,066 - testDotDash -INFO - CheckBox1 is Enabled
+2022-10-05 17:22:40,296 - testDotDash -INFO - Url Is Opened
+2022-10-05 17:22:40,410 - testDotDash -INFO - User name is Provided
+2022-10-05 17:22:40,490 - testDotDash -INFO - Password is Provided
+2022-10-05 17:22:42,693 - testDotDash -INFO - Clicked in Login
+2022-10-05 17:22:44,715 - testDotDash -INFO - Login Test Psssed
+2022-10-05 17:22:44,845 - testDotDash -INFO - Logout Successfully
+2022-10-05 17:22:46,080 - testDotDash -INFO - Url Is Opened
+2022-10-05 17:22:46,155 - testDotDash -INFO - User name is Provided
+2022-10-05 17:22:46,231 - testDotDash -INFO - Password is Provided
+2022-10-05 17:22:48,418 - testDotDash -INFO - Clicked in Login
+2022-10-05 17:22:50,434 - testDotDash -INFO - Login Test Failed
+2022-10-05 17:22:50,801 - testDotDash -INFO - Url Is Opened
+2022-10-05 17:22:52,949 - testDotDash -INFO - Clicked on CheckBoxs
+2022-10-05 17:22:57,034 - testDotDash -INFO - CheckBox2 is Disabled
+2022-10-05 17:22:59,114 - testDotDash -INFO - CheckBox1 is Enabled
